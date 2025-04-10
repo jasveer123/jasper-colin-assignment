@@ -18,8 +18,8 @@ This project demonstrates a responsive **Product Card UI** built using **Next.js
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-card-ui.git
-cd product-card-ui
+git clone https://github.com/jasveer123/jasper-colin-assignment.git
+cd jasper-colin-assignment
 ```
 
 ### 2. Install Dependencies
@@ -39,3 +39,7 @@ yarn dev
 ```
 
 Open your browser at `http://localhost:3000` to see the result.
+
+## 4. deployed version
+
+check the deployed version at `https://jasper-colin-assignment-iota.vercel.app/`
